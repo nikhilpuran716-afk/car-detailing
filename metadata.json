@@ -1,0 +1,6 @@
+{
+  "name": "Apex Auto Detailing — Luxury Mobile Detailing Miami",
+  "description": "Premium conversion-focused website for Apex Auto Detailing, a luxury mobile car detailing service in Miami, Florida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
